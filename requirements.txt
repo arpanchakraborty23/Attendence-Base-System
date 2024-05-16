@@ -1,0 +1,7 @@
+pandas
+numpy 
+tensorflow
+keras
+opencv-python
+face_recognition
+-e .
